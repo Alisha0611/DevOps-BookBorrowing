@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M5TBr279ZMe9jyDbRJNPcIzK1tY32bQqRAEdkyCTB/UFlT+uHRdQzEjJsV0wJyhyyWUWj3elVdabfCuAuZfYTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alishasrivastava\\Desktop\\DotnetProject\\UnitTesting\\UnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alishasrivastava\\.nuget\\packages\\mstest.testframework\\3.3.1\\mstest.testframework.3.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
