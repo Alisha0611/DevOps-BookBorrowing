@@ -46,7 +46,7 @@ pipeline {
                 script {
                     sh 'docker rm -f ${IMAGE_NAME} || true'
                     // Run the new container
-                    sh "docker run -d --name aspnetcore3 -p 8000:80 ${IMAGE_NAME}:${IMAGE_TAG}"
+                    sh "docker run -d --name DotnetProject -p 8000:80 ${IMAGE_NAME}:${IMAGE_TAG}"
                 }
             }
         }
