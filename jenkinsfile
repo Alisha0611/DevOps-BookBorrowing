@@ -20,7 +20,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                sh 'dotnet test DotnetProjectTesting/DotnetProjectTesting.csproj'
+                sh 'dotnet test UnitTesting/UnitTesting.csproj'
             }
         }
         stage('Docker Build') {
